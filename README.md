@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Prisma with PostgreSQL**
 
-- 👯 I would love to help you on your projects involving **React/VanillaJS, TypeScript, GraphQL, PostgresQL, Firebase/MongoDB or front-end styling!**
+- 👯 I would love to help you on your projects involving **React/VanillaJS, TypeScript, GraphQL, PostgreSQL, Firebase/MongoDB or front-end styling!**
 
 - 👨‍💻 All of my projects and more are available at [My Personal Website](https://emrerdem.com)
 
