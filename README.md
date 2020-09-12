@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Memm.io](https://memm.io)
 
-- 🌱 I’m currently learning **Prisma with PostgreSQL**
+- 🌱 I’m learning **Prisma with PostgreSQL** fast nowadays
 
-- 👯 I would love to help you on your projects involving **React/VanillaJS, TypeScript, GraphQL, PostgreSQL, Firebase/MongoDB, i18next or front-end styling!**
+- 👯 I would very much love to involve projects on **React/VanillaJS, TypeScript, GraphQL, PostgreSQL, Firebase/MongoDB, i18next or front-end styling!**
 
-- 👨‍💻 All of my projects and more are available at [My Personal Website](https://emrerdem.com)
+- 👨‍💻 All of my projects are available at [My Personal Website](https://emrerdem.com)
 
 - 💬 Ask me about **React, VanillaJS/TypeScript, Redux, GraphQL, Firebase, Bootstrap, SASS, i18next CSS & HTML**
 
