@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Prisma with PostgreSQL**
 
-- 👯 I would love to help you on your projects involving **React/VanillaJS, TypeScript, GraphQL, PostgreSQL, Firebase/MongoDB or front-end styling!**
+- 👯 I would love to help you on your projects involving **React/VanillaJS, TypeScript, GraphQL, PostgreSQL, Firebase/MongoDB, i18next or front-end styling!**
 
 - 👨‍💻 All of my projects and more are available at [My Personal Website](https://emrerdem.com)
 
-- 💬 Ask me about **React, VanillaJS/TypeScript, Redux, GraphQL, Firebase, Bootstrap, SASS, CSS & HTML**
+- 💬 Ask me about **React, VanillaJS/TypeScript, Redux, GraphQL, Firebase, Bootstrap, SASS, i18next CSS & HTML**
 
 - 📫 You can reach me via **emrerdem94@gmail.com**
 
