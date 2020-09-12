@@ -25,6 +25,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emrerdem94/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emrerdem94/" height="30" width="30" /></a>
-  
 <a href="https://instagram.com/herecomesemre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="herecomesemre" height="30" width="30" /></a>
 </p>
