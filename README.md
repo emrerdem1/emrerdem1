@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋, I'm Emre Erdem!</h1>
+<h1 align="center">Hey there! 👋, I'm Emre!</h1>
 <h3 align="center">Self-driven Junior Front-End Developer from Istanbul, Turkey</h3>
 
 - 🔭 I’m currently working on [Memm.io](https://memm.io)
