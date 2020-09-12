@@ -11,7 +11,7 @@
 
 - 💬 Feel free to ask me anything about **React, VanillaJS/TypeScript, Redux, GraphQL, Firebase, Bootstrap, SASS, i18next CSS & HTML**.
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/emrerdem94/) or via [E-Mail](emrerdem94@gmail.com).
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/emrerdem94/) or via [E-Mail](mailto:emrerdem94@gmail.com).
 
 - ⚡ Confession: **I love dogs but I do worship cats**.
 
