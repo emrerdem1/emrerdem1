@@ -1,15 +1,13 @@
 <h1 align="center">Hey there! 👋, I'm Emre Erdem!</h1>
 <h3 align="center">Self-driven Junior Front-End Developer from Istanbul, Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrerdem1" alt="emrerdem1" /> </p>
-
 - 🔭 I’m currently working on [Memm.io](https://memm.io)
 
 - 🌱 I’m currently learning **Prisma with PostgreSQL**
 
 - 👯 I would love to help you on your projects involving **React/VanillaJS,TypeScript, GraphQL, PostgresQL, Firebase/MongoDB or front-end styling!**
 
-- 👨‍💻 All of my projects are available at [https://emrerdem.com](https://emrerdem.com)
+- 👨‍💻 All of my projects and more are available at [https://emrerdem.com](https://emrerdem.com)
 
 - 💬 Ask me about **React, VanillaJS/TypeScript, Redux, GraphQL, Firebase, Bootstrap, SASS, CSS & HTML**
 
@@ -23,8 +21,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrerdem1&show_icons=true" alt="emrerdem1" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrerdem1" alt="emrerdem1" /> </p>
+
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emrerdem94/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emrerdem94/" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/emre erdem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="emre erdem" height="30" width="30" /></a>
 <a href="https://instagram.com/herecomesemre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="herecomesemre" height="30" width="30" /></a>
 </p>
