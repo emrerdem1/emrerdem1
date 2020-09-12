@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://emrerdem.com).
 
-- 💬 Feel free to ask me anything about **React, VanillaJS/TypeScript, Redux, GraphQL, Firebase, Bootstrap, SASS, i18next CSS & HTML**.
+- 💬 Feel free to ask me anything about **React, VanillaJS/TypeScript, Redux, GraphQL, Firebase, Bootstrap, SASS, i18next, CSS & HTML**.
 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/emrerdem94/) or via [E-Mail](mailto:emrerdem94@gmail.com).
 
