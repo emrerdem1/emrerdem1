@@ -22,9 +22,10 @@
  
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrerdem1&layout=compact&hide=html" alt="emrerdem1" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrerdem1&layout=compact&hide=html" alt="emrerdem1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrerdem1&show_icons=true" alt="emrerdem1" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrerdem1&show_icons=true" alt="emrerdem1" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/emrerdem94/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/emrerdem94/" height="30" width="30" /></a>
