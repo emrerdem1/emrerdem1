@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Memm.io](https://memm.io).
 
-- 🌱 I’m learning **Prisma with PostgreSQL and Jest for testing** fast nowadays.
+- 🌱 I’m learning **Prisma with PostgreSQL** and **Jest for testing** fast nowadays.
 
 - 👯 I would very much love to involve projects on **React, VanillaJS/TypeScript, GraphQL, PostgreSQL, Firebase/MongoDB, i18next or front-end styling!**.
 
