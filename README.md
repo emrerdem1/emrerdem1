@@ -13,6 +13,8 @@
 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/emrerdem94/) or via [E-Mail](mailto:emrerdem94@gmail.com).
 
+- 💫 [Resume](https://drive.google.com/file/d/1skvHtQ5Uo9NXGxji-TJ9tJft9dGa13AB/view)
+
 - ⚡ Confession: **I love dogs but I do worship cats**.
 
 ---
