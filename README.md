@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **Prisma with PostgreSQL** and **Jest for testing** fast nowadays.
 
-- 👯 I would very much love to involve projects on **React, VanillaJS/TypeScript, GraphQL, PostgreSQL, Firebase/MongoDB, i18next or front-end styling!**.
+- 👯 I would very much love to involve projects on **React, VanillaJS/TypeScript, GraphQL, REST, PostgreSQL, Firebase/MongoDB, i18next or front-end styling!**
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://emrerdem.com).
 
