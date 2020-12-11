@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Emre! 👋</h1>
-<h3 align="center">Self-driven Junior Web Developer from Istanbul, Turkey.</h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=emrerdem1" alt="emrerdem1" /> </p>
+<h3 align="center">Self-driven Full Stack Developer from Istanbul, Turkey.</h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=emrerdem1" alt="emrerdem1" /> </p>
 
 - 🔭 I’m currently working on [Memm.io](https://memm.io).
 
