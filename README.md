@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Emre! 👋</h1>
-<h3 align="center">Self-driven Full Stack Developer from Istanbul, Turkey.</h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=emrerdem1" alt="emrerdem1" /> </p>
+<h3 align="center"Full Stack Developer from Istanbul, Turkey.</h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=emrerdem1" alt="emrerdem1" /> </p>
 
-- 🔭 I’m currently working at [PulpoAR](https://pulpoar.io).
+- 🔭 I’m currently working at [PulpoAR](https://pulpoar.com).
 
 - 🌱 I’m learning **Prisma with PostgreSQL** and **Jest for testing** fast nowadays.
 
@@ -13,7 +13,7 @@
 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/emrerdem94/) or via [E-Mail](mailto:emrerdem94@gmail.com).
 
-- 💫 [Resume](https://drive.google.com/file/d/15YS4kcAdcoXQUsUb-VB1iNFJhE4yRGng/view?usp=sharing)
+- 💫 [Resume](https://drive.google.com/file/d/1hLrYw7qWC6no24OY3opiz_oBxZOO7_UK/view)
 
 - ⚡ Confession: **I love dogs but I do worship cats**.
 
