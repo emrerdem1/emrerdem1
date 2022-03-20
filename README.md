@@ -1,5 +1,4 @@
-<h1 align="center">Hey there! I'm Emre! 👋</h1>
-<h3 align="center"Full Stack Developer from Istanbul, Turkey.</h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=emrerdem1" alt="emrerdem1" /> </p>
+<h3 align="center">I'm Emre Erdem, Full Stack Developer from Cappadocia, Turkey.</h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=emrerdem1" alt="emrerdem1" /> </p>
 
 - 🔭 I’m currently working at [PulpoAR](https://pulpoar.com).
 
@@ -13,7 +12,7 @@
 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/emrerdem94/) or via [E-Mail](mailto:emrerdem94@gmail.com).
 
-- 💫 [Resume](https://drive.google.com/file/d/1vU0RngCDDcVfP7t3vAcT_QDp1Ncf61Iz/view?usp=sharing)
+- 💫 [Resume](https://drive.google.com/file/d/1rvvscyLOi3GS2wWUbxh6taoET3-xMKlj/view?usp=sharing)
 
 - ⚡ Confession: **I love dogs but I do worship cats**.
 
