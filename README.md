@@ -1,18 +1,8 @@
-<h3 align="center">I'm Emre Erdem, Full Stack Developer from Cappadocia, Turkey.</h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=emrerdem1" alt="emrerdem1" /> </p>
-
-- 🔭 I’m currently working at [PulpoAR](https://pulpoar.com).
-
-- 🌱 I’m learning **Prisma with PostgreSQL** and **Jest for testing** fast nowadays.
-
-- 👯 I would very much love to involve projects on **React.js, JavaScript/TypeScript, GraphQL, REST, PostgreSQL, Firebase, or MongoDB!**
-
-- 👨‍💻 All of my projects are available at [My Personal Website](https://emrerdem.com).
+- 🔭 I'm Emre Erdem, 27 years old from Cappadocia, Turkey. I work for [TradeShift](https://tradeshift.com/) as Frontend Engineer.
 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/emrerdem94/) or via [E-Mail](mailto:emrerdem94@gmail.com).
 
-- 💫 [Resume](https://drive.google.com/file/d/1rvvscyLOi3GS2wWUbxh6taoET3-xMKlj/view?usp=sharing)
-
-- ⚡ Confession: **I love dogs but I do worship cats**.
+- 💫 [Resume](https://drive.google.com/file/d/1rvvscyLOi3GS2wWUbxh6taoET3-xMKlj/view?usp=sharing) | [Personal Website](https://emrerdem.com).
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrerdem1&layout=compact&hide=html" alt="emrerdem1" /></p>
 
