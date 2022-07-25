@@ -1,6 +1,6 @@
 - I'm Emre Erdem, 27 years old from Cappadocia, Turkey.
 
-- I work for [TradeShift](https://tradeshift.com/) as Frontend Engineer.
+- I work for [LEGO Group](https://www.lego.com/) as Sr. Software Engineer.
 
 - You can reach me through [LinkedIn](https://www.linkedin.com/in/emrerdem94/) or via [E-Mail](mailto:emrerdem94@gmail.com).
 
