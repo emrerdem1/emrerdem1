@@ -4,4 +4,4 @@
 
 - You can reach me through [LinkedIn](https://www.linkedin.com/in/emrerdem94/) or via [E-Mail](mailto:emrerdem94@gmail.com).
 
-- [Resume](https://drive.google.com/file/d/1rvvscyLOi3GS2wWUbxh6taoET3-xMKlj/view?usp=sharing) | [Personal Website](https://emrerdem.com).
+- [Resume](https://drive.google.com/file/d/1aXfsADYstWczHBpLImsKfxzHDK1wYsuZ/view?usp=sharing) | [Personal Website](https://emrerdem.com).
